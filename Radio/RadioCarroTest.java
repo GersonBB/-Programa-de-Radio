@@ -41,8 +41,8 @@ public class RadioCarroTest {
         radioCarro.avanzarDial();
         assertTrue(radioCarro.getDial() > 530.0);
 
-        // Agrega más pruebas según sea necesario
+       
     }
 
-    // Puedes seguir añadiendo más métodos de prueba según sea necesario
+    
 }
